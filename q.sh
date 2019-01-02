@@ -10,7 +10,7 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'    
 
-toilet -f smblock bahauddin | lolcat
+toilet -f smblock Tool Hacking Bahauddin Mr.B4h4' | lolcat
 echo $cyan"TOOL Bahauddin"
 echo $green"Daftar Tools"
 echo $purple"[1] HACK FACEBOOK MBF"
@@ -87,7 +87,7 @@ chmod +x sqlmate
 python2 sqlmate
 fi
 
-if [ $bro = 5 ] || [ $bro = 5 ]
+if [ $bro = 5 ] || [ $bro = 6 ]
 then
 clear
 sleep 1
@@ -111,7 +111,7 @@ cd LITEDDOS
 python2 LITEDDOS.py
 fi
 
-if [ $bro = 7 ] || [ $bro = 7 ]
+if [ $bro = 7 ] || [ $bro = 8 ]
 then
 clear
 sleep 1
@@ -124,7 +124,7 @@ chmod +x main.py
 python2 main.py
 fi
 
-if [ $bro = 8 ] || [ $bro = 8 ]
+if [ $bro = 8 ] || [ $bro = 9 ]
 then
 clear
 sleep 1
@@ -138,7 +138,7 @@ sh install.sh
 sh AOC.sh
 if
 
-if [ $ganteng = 9 ] || [ $ganteng = 9 ]
+if [ $ganteng = 9 ] || [ $ganteng = 10 ]
 then
 clear
 sleep 1
@@ -150,7 +150,7 @@ cd sqliscan
 bash sqliscan.sh
 if
 
-if [ $ganteng = 10 ] || [ $ganteng = 10 ]
+if [ $ganteng = 10 ] || [ $ganteng = 11 ]
 then
 clear
 sleep 1
@@ -165,7 +165,7 @@ chmod +x sqlscan.php
 php sqlscan.php
 if
 
-if [ $bro = 11 ] || [ $bro = 11 ]
+if [ $bro = 11 ] || [ $bro = 12 ]
 then
 clear
 sleep 1
@@ -177,7 +177,7 @@ chmod +x rhawk.php
 php rhawk.php
 if
 
-if [ $bro = 12 ] || [ $bro = 12 ]
+if [ $bro = 12 ] || [ $bro = 13 ]
 then
 clear
 sleep 1
@@ -192,7 +192,7 @@ cd CreaterVirus
 python2 creater.py
 if 
 
-if [ $bro = 13 ] || [ $bro = 13 ]
+if [ $bro = 13 ] || [ $bro = 14 ]
 then
 clear
 sleep 1
