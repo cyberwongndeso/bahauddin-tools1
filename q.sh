@@ -10,7 +10,7 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'    
 
-figlet bahauddin | lolcat
+toilet -f smblock bahauddin | lolcat
 echo $cyan"TOOL Bahauddin"
 echo $green"Daftar Tools"
 echo $purple"[1] HACK FACEBOOK MBF"
